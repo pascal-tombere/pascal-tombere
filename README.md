@@ -48,8 +48,12 @@ I’m always open to:
 > Build things that actually solve problems.
 
 ## GitHub Stats
-![Pascal's GitHub stats](https://github-readme-stats.vercel.app/api?username=pascal-tombere&show_icons=true&theme=transparent)
+## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pascal-tombere&layout=compact&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pascal-tombere&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pascal-tombere&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascal-tombere&layout=compact&theme=github_dark&hide_border=true&hide_border=true&cache_seconds=86400" />
+</p>
