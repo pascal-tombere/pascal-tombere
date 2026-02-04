@@ -57,3 +57,10 @@ I’m always open to:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascal-tombere&layout=compact&theme=github_dark&hide_border=true&hide_border=true&cache_seconds=86400" />
 </p>
+
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pascal-tombere/pascal-tombere/output/github-contribution-grid-snake-dark.svg" />
+</p>
