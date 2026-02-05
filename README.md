@@ -53,7 +53,6 @@ I’m always open to:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pascal-tombere)
 
-
 ## Contribution Activity
 
 <p align="center">
